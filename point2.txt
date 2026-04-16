@@ -1,0 +1,9 @@
+Mountain Riders Hub
+Merida,2017,190.00,mountain
+Trek,2010,90.00,city
+Cube,2022,420.00,mountain
+Fuji,2014,130.00,sports
+Giant,2020,310.00,city
+Specialized,2008,80.00,mountain
+Cannondale,2023,500.00,sports
+Orbea,2019,260.00,city

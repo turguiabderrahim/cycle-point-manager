@@ -1,0 +1,9 @@
+Lakeside Rentals
+Peugeot,2021,280.00,city
+Raleigh,2013,110.00,city
+GT,2019,230.00,sports
+Trek,2022,390.00,mountain
+Fuji,2011,100.00,city
+Bianchi,2020,340.00,sports
+Scott,2016,200.00,mountain
+Giant,2023,460.00,city

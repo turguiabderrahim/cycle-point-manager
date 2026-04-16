@@ -1,0 +1,9 @@
+CityBikes Central
+Trek,2018,150.00,city
+Giant,2015,200.00,mountain
+Specialized,2020,300.00,sports
+Trek,2019,175.00,city
+Cannondale,2012,120.00,city
+Scott,2021,450.00,mountain
+Bianchi,2016,220.00,sports
+Giant,2023,380.00,city
